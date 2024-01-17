@@ -1,5 +1,11 @@
 
+# fracamente tipada
+# ex: python
 
-resul: int = sum([2, 2])
+# fortemente tipada
+# ex: Java
 
-print(resul)
+forma1: str = 'teste'
+forma2: str = "teste"
+forma3: str = '''teste'''
+forma4: str = """teste"""
